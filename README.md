@@ -1,2 +1,2 @@
-# st.file_uploader
-Day 18 of 30-Days-of-Streamlit Challenge
+# 🎈 Streamlit : st.file_uploader method
+This widget helps to upload files!
